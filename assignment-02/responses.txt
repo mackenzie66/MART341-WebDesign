@@ -1,1 +1,3 @@
-
+Directories are like folders. Their purpose is to organize files and create a path to find these files. Files can contain things like images, audio, or video. Directories will structurally organize these files.
+VCS stands for Version Control System. It allows teams or groups of people to work on a project that is updated with the latestest modificaitons. It is great for communcation amongst groups. You are also able to see who and what made an update.
+My favorite artist medium is charcoal on paper. I love to draw. I enjoy using acrilics and oil paints however sometimes I am impatients to let it dry. I like charcoal because I am ablet to layer it. With charcoal I can make all different intensities using black and white.
