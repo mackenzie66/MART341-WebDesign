@@ -1,0 +1,55 @@
+body {
+background-color: #CEC5B0;
+font-family: Impact;
+text-align: center;
+}
+
+div{
+   border: 8px solid #919287 ;
+   
+}
+
+img {
+    border-radius: 10%;
+    border: 10px solid #F1E7DA;
+}
+
+
+#title {
+   color: black;
+    background-color: #F0B21F;
+    font-weight: bolder;
+    padding:30px;
+    text-align:center;
+    font-size: 50px;
+    
+    
+}
+
+
+
+ .glacier {
+    color: black;
+    background-color: #7690C2;
+    padding: 10px;
+
+    
+ }
+
+ .missouri {
+ 
+    color: black;
+    background-color: #5E6903;
+    padding: 10px;
+    
+ }
+
+
+ .bitterroot{
+   color: black;
+   background-color: #E04115;
+   padding: 10px;
+ }
+
+  
+ 
