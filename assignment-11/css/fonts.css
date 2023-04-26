@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'CastoroTilting';
+    src: url('../fonts/CastoroTitling-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'FjallaOne';
+    src: url('../fonts/FjallaOne-Regular.ttf') format('truetype');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+}

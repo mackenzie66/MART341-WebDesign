@@ -1,0 +1,46 @@
+#header{
+    background-image: url("../images/glaciersunset.jpg");
+    height: 400px;
+}
+
+h1{
+    color:rgb(5, 74, 83);
+    font-family: CastoroTilting;
+    font-size: 100px;
+    letter-spacing: 0.3em;
+}
+
+
+h3{
+    text-align: center;
+    font-size: 25px;
+    font-family: FjallaOne;
+}
+
+.titleBorder{
+    height: 300px;
+    background-color:rgba(202, 203, 208, 0.546);
+    color: #334;
+    font-family: FjallaOne;
+}
+
+.subtitle:hover {
+    background-color:rgb(246, 143, 99);
+}
+
+#title:hover {
+    letter-spacing: 1em;
+    color: rgb(108, 19, 47)
+}
+
+
+
+.subtitle{
+    padding-top: 20px;
+    font-size: 75px;
+    margin: auto;
+    font-family: FjallaOne;
+    background-color:rgba(95, 184, 236, 0.746)
+}
+
+
