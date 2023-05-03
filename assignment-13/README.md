@@ -1,0 +1,3 @@
+My goal of this website is to provide information about fishing in Montana. I will give information about fish species, rivers you can fish, and finally a simple about page that will conclude my website. I want it to look asthetically pleasing. I want it to be simple but effective in the way I display information. I also want the colors to be earth tones with greens, browns, and rustic oranges.
+
+A responsive website is important because it use HTML and CSS to make your website look good on all devices. A webstie should always look good and be easy to use no matter the platform. 
