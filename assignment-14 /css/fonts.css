@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'Play';
+    src: url('../fonts/Play-Regular.ttf') format('truetype');
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'JuliusSans';
+    src: url('../fonts/JuliusSansOne-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('../fonts/Cairo-VariableFont_slnt\,wght.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Allerta';
+    src: url('../fonts/AllertaStencil-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: 'Elec';
+    src: url('../fonts/Electrolize-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
