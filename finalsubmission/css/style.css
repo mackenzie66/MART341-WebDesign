@@ -130,7 +130,9 @@ h2{
 a:visited{
     color: rgb(212, 212, 212);}
 a:active{
-    color:rgb(175, 170, 163)}
+    color:rgb(212, 212, 212)}
+ a{
+        color:rgb(212, 212, 212)}  
 img{
     border-radius: 100%;
     text-align: center;}
