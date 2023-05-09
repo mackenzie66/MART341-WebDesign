@@ -1,0 +1,5 @@
+My user test went well. all the link and buttons I incorporated in the site worked. Most of the suggestions I got was on the color and overall design. I had some things to tweak about the images on my about page and trout species page. When my website is viewed on an iphone the images stack ontop of each other versus horizontally.
+
+I made lots of changes. I tried to clean it up more by incorporating more font styles. I kept a similar color scheme but changed it so it was less plain. I changed they entire look of the about page because I was not liking how the background image look. I also tried to fix some of the images on the trout species page hoping that by making the images round it more visually pleasing.
+
+One of my biggest challenged was with my images. They were not sitting correclty on the page and I wasn't able to fix the images from stacking ontop of one another when its viewed on a smaller screen
